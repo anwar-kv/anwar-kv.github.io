@@ -3,13 +3,13 @@ export const locale = {
     data: {
         'about': {
             'title': 'About',
-            'jobTitle': 'Web and mobile application developer',
-            'introductionOfMe': 'Interested in new technologies and working methods. I like to come up with ideas that to permit to improve business processes.',
+            'jobTitle': 'Web  application developer',
+            'introductionOfMe': 'Interested in new technologies and working methods.',
             'passionateAboutDevelopment':'Passionate about development',
-            'mobility': 'Mobile throughout France',
+            'mobility': 'kannur,kerala',
             'years': 'Years',
-            'graduation': "Master's degree 2 IT",
-            'myResearch': 'CDI contract search',
+            'graduation': "Master of Computer Application",
+            // 'myResearch': 'CDI contract search',
             'researchDescription': 'I am looking for an innovative and user-centric company to best meet the needs customer, from his idea to the final delivery of his project, or participate in the improvement of a project existing.',
             'and':'and',
             'followMeOn':'Follow me on',

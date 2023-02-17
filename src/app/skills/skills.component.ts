@@ -10,9 +10,9 @@ import { locale as french } from '../shared/i18n/fr';
 })
 export class SkillsComponent implements OnInit {
   skills:any={
-    technologies:[{name:"Java, J2EE, Spring, C#",percent:90,remark:'excellent'}, {name:"PHP",percent:70,remark:'good'},{name:"Android",percent:90,remark:'excellent'},{name:"Python, C++",percent:70,remark:'very-good'}, {name:"JavaScript, BootStrap, Angular", percent:90,remark:'excellent'}],
-    tools:[{name:"Git",percent:90,remark:'excellent'},{name:"Office",percent:90,remark:'excellent'},{name:"Linux, Windows",percent:70,remark:'very-good'},{name:"MySql, PgSql",percent:90,remark:'excellent'},{name:"Docker, Kubernetes",percent:50,remark:'average'}],
-    methodologies:[{name:"Scrum",percent:70,remark:'very-good'},{name:"Uml",percent:90,remark:'excellent'},{name:"Disign Thinking",percent:70,remark:'good'},{name:"TDD",percent:90,remark:'excellent'},{name:"DevOps",percent:50,remark:'average'}]
+    technologies:[{name:"Angular",percent:80,remark:'very-good'}, {name:".Net Web Api",percent:70,remark:'good'},{name:"React Native",percent:50,remark:'good'},{name:"Python",percent:70,remark:'good'}, {name:"JavaScript, BootStrap,HTML,CSS",percent:80,remark:'good'}],
+    tools:[{name:"Git"},{name:"Wix,Overleaf"},{name:"Windows"},{name:"MySql"},{name:"MS Dynamics, Odoo"}],
+    // methodologies:[{name:"Scrum",percent:70,remark:'very-good'},{name:"Uml",percent:90,remark:'excellent'},{name:"Disign Thinking",percent:70,remark:'good'},{name:"TDD",percent:90,remark:'excellent'},{name:"DevOps",percent:50,remark:'average'}]
   };
 
   constructor(private _translationLoaderService: TranslationLoaderService) {
