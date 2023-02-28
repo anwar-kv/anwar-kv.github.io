@@ -10,7 +10,7 @@ export const locale = {
             'years': 'Years',
             'graduation': "Master of Computer Application",
             // 'myResearch': 'CDI contract search',
-            'researchDescription': 'I am looking for an innovative and user-centric company to best meet the needs customer, from his idea to the final delivery of his project, or participate in the improvement of a project existing.',
+            'researchDescription': ' In search of a position as a  Software Engineer where I can express my creative interests along with applying my technical skillset.',
             'and':'and',
             'followMeOn':'Follow me on',
         },
